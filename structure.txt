@@ -1,0 +1,14 @@
+Rainfall_Prediction/
+│── app.py                # Streamlit app (Frontend UI)
+│── train_model.py         # Model training script
+│── inference.py           # Prediction script
+│── requirements.txt       # Dependencies
+│── imputer.pkl            # Saved imputer model
+│── scaler.pkl             # Saved scaler model
+│── selector.pkl           # Saved feature selector model
+│── catboost_model.cbm     # Trained CatBoost model
+│── lr_model.pkl           # Trained Logistic Regression model
+│── dataset/
+│   ├── train.csv          # Training dataset
+│   ├── test.csv           # Test dataset
+│   ├── sample_submission.csv  # Sample submission file
