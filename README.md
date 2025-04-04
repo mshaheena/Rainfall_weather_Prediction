@@ -20,7 +20,7 @@ Rainfall_Prediction/ │── app.py # Streamlit app (Frontend UI) │── tr
 
 1️⃣ **Clone the repository**  
 
-git clone https://github.com/mshaheena/Rainfall_Prediction.git
+git clone https://github.com/your-username/Rainfall_Prediction.git
 cd Rainfall_Prediction
 
 2️⃣ Install dependencies
